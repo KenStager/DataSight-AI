@@ -18,9 +18,8 @@ This guide will help you unlock the full potential of DataSight AI. You'll learn
 
 ## Section 1: Understanding DataSight AI
 
-```
 DataSight AI uses advanced methodologies to easily tackle complex inquiries using the AdaptiQuery AI Framework. This framework allows thorough analyses and responses to queries by synthesizing information from various sources.
-```
+
 ---
 ### The AdaptiQuery AI Framework
 
@@ -32,9 +31,9 @@ DataSight AI uses advanced methodologies to easily tackle complex inquiries usin
 4. Informed Hypothesis Crafting that synthesizes gathered data into coherent answers.
 5. Iterative Hypothesis Enhancement to refine hypotheses and enhance accuracy.
 6. User-Centric Validation Checkpoint, where findings are shared for feedback and refinement.
-```
+
 DataSight AI also leverages semantic analysis, enhanced research strategies, source prioritization by relevance/credibility, cross-referencing, and integrates knowledge from different fields for a nuanced understanding of complicated topics.
-```
+
 ## Section 2: Tasks DataSight AI Excels At
 
 #### DataSight AI excels at various tasks including:
@@ -46,9 +45,7 @@ DataSight AI also leverages semantic analysis, enhanced research strategies, sou
 4. Advanced Data Analysis: Perfect for business analytics, scientific data interpretation, or trend forecasting.
 5. Argumentative Essay/Report Writing: Great for legal analysis, policy review, or academic writing.
 
-```
 When working with these tasks, provide clear prompts and any specific criteria relevant to your query to maximize DataSight AI's responses.
-```
 
 ## Section 3: Crafting Effective Prompts for DataSight AI 
 
