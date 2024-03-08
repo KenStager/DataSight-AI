@@ -1,4 +1,4 @@
-# DataSight AI User Guide: Ultra-Detailed Edition
+# DataSight AI User Guide:
 
 ## Welcome to DataSight AI
 
